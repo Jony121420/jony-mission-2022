@@ -59,14 +59,15 @@ padding: 90px 100px;
     
     
     margin-bottom: 5px;
-    margin-left: 384px;
+    margin-left: 313px;
 }
  
 #layer2 .layer2-img-1{
-    background-color: red;
-    width: 22%;
-    height: 45vh;
-    margin-left: 10px;
+    background-color: #dbdbdb;
+    width: 26%;
+    height: 48vh;
+
+    margin-left: 15px;
     
     border-radius: 20px;
     
@@ -76,11 +77,19 @@ padding: 90px 100px;
     height: 150px;
     width: 150px;
 }
+#layer2 .layer2-img-1 h2{
+    margin: -11px 45px;
+    font-size: 34px;
+}
+#layer2 .layer2-img-1 p{
+    font-size: 23px;
+    margin: 19px 42px;
+}
 #layer2 .layer2-img-2{
-    background-color: rgb(25, 0, 255);
-    width: 22%;
-    height: 45vh;
-   margin-left: 10px;
+    background-color: rgb(211 222 223);
+    width: 26%;
+    height: 48vh;
+   margin-left: 15px;
     border-radius: 20px;
     
 
@@ -91,18 +100,34 @@ padding: 90px 100px;
     height: 150px;
     width: 150px;
 }
+#layer2 .layer2-img-2 h2{
+    margin: -11px 45px;
+    font-size: 34px;
+}
+#layer2 .layer2-img-2 p{
+    font-size: 23px;
+    margin: 19px 42px;
+}
 
 #layer2 .layer2-img-3{
-    background-color: rgb(166, 255, 0);
-    width: 22%;
-    height: 45vh;
+    background-color: rgb(233 222 201);
+    width: 26%;
+    height: 48vh;
     border-radius: 20px;
-     margin-left: 10px;   
+     margin-left: 15px;   
 }
 #layer2 .layer2-img-3 img{
     margin: 11px 22px;
     height: 150px;
     width: 150px;
+}
+#layer2 .layer2-img-3 h2{
+    margin: -11px 45px;
+    font-size: 34px;
+}
+#layer2 .layer2-img-3 p{
+    font-size: 23px;
+    margin: 19px 42px;
 }
 
 #layer2 h1{
