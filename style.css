@@ -8,17 +8,17 @@ body{
 #layer1{
     display: flex;
 }
-#layer1 .layer1-text h1{
+#layer1 .layer1-text .h1{
 font-size: 70px;
 padding: 90px 100px;
 }
-#layer1 .layer1-text h2{
+#layer1 .layer1-text .h2{
     font-size: 70px;
     margin: -141px 100px;
     color: coral;
     
 }
-#layer1 .layer1-text p{
+#layer1 .layer1-text .paragraph{
     padding: 129px 100px;
     font-size: 20px;
     
@@ -134,4 +134,13 @@ padding: 90px 100px;
     text-align: center;
     font-size: 60px;
     font-weight: bold;
+}
+
+/* section2 and layer2 css are starting from here */
+#layer3{
+    display: flex;
+}
+#layer3 layer3-img img{
+    width: 402px;
+    height: 466px;
 }
