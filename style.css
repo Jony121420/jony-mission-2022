@@ -221,7 +221,8 @@ padding: 90px 100px;
 }
 /* section5 layer5 css are starting from here */
 #layer5{
-    margin: 70px;
+    margin-top: 198px;
+    margin-left: 80px;
     background-color: #bebded;
     width: 90vw;
     height: 60vh;;
@@ -270,3 +271,31 @@ margin: 15px 15px;
     color: rgb(0, 0, 0);
     font-weight: bold;
 }
+/* section6 and layer6 css starting from here */
+
+#layer6{
+margin-top: 70px;
+}
+#layer6 .footer {
+background-color: black;
+width: 100vw;
+height: 27vh;
+}
+#layer6 .footer h1{
+    color: white;
+    font-size: 80px;
+    font-weight: bold;
+    margin: 15px 570px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#layer6 .footer h1 span{
+    color: #21adff;
+
+}
+#layer6 .footer h3{
+    color: white;
+    font-size: 20px;
+    font-weight: 300;
+    margin: 10px 520px;
+}
+
