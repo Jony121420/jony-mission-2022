@@ -56,26 +56,57 @@ padding: 90px 100px;
 /* section 2 and layer 2 css are starting from here */
 #layer2 .layer2-img-whole{
     display: flex;
+    
+    
+    margin-bottom: 5px;
+    margin-left: 384px;
 }
  
 #layer2 .layer2-img-1{
     background-color: red;
-    width: 30vh;
-    height: fit-content;
+    width: 22%;
+    height: 45vh;
+    margin-left: 10px;
+    
+    border-radius: 20px;
+    
+}
+#layer2 .layer2-img-1 img{
+    margin: 11px 22px;
+    height: 150px;
+    width: 150px;
 }
 #layer2 .layer2-img-2{
     background-color: rgb(25, 0, 255);
-    width: 30vh;
+    width: 22%;
+    height: 45vh;
+   margin-left: 10px;
+    border-radius: 20px;
+    
 
-    height: fit-content;
+    
 }
+#layer2 .layer2-img-2 img{
+    margin: 11px 22px;
+    height: 150px;
+    width: 150px;
+}
+
 #layer2 .layer2-img-3{
     background-color: rgb(166, 255, 0);
-    width: 30vh;
-    height: fit-content;
+    width: 22%;
+    height: 45vh;
+    border-radius: 20px;
+     margin-left: 10px;   
 }
+#layer2 .layer2-img-3 img{
+    margin: 11px 22px;
+    height: 150px;
+    width: 150px;
+}
+
 #layer2 h1{
     text-align: center;
     font-size: 60px;
-    font-weight: 1000;
+    font-weight: bold;
 }
