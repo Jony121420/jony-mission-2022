@@ -138,6 +138,13 @@ padding: 90px 100px;
 #layer3{
     display: flex;
     margin-top: 70px;
+    background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 324px;
+    background-position-y: 156px;
+    background-position-x: 110px;
+    
 }
 #layer3 .layer3-img img{
     width: 484px;
@@ -170,4 +177,45 @@ padding: 90px 100px;
 }
 #layer3 .layer3-text{
     margin: 141px -140px;
+}
+
+/* section4 layer4 css are starting from here */
+
+#layer4{
+    display: flex;
+    margin-top: 70px;
+   
+    
+}
+
+#layer4 .layer4-img {
+    margin: -45px 220px;
+}
+#layer4 .layer4-img img{
+    width: 485px;
+    height: 504px;
+    
+}
+#layer4 .layer4-text{
+    margin: -28px 238px;
+}
+#layer4 .layer4-text h1{
+    font-size: 50px;
+}
+#layer4 .layer4-text h2{
+    font-size: 50px;
+    margin-top: -44px;
+}
+#layer4 .layer4-text p{
+    margin-top: -18px;
+    font-size: 20px;
+}
+#layer4 .layer4-text .layer4-button{
+    background-color: rgb(37 108 124);
+    color: white;
+    padding: 15px 40px;
+    border-radius: 5px;
+    border: none;
+    font-size: 20px;
+    margin-top: 14px;
 }
