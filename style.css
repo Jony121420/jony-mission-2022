@@ -219,3 +219,54 @@ padding: 90px 100px;
     font-size: 20px;
     margin-top: 14px;
 }
+/* section5 layer5 css are starting from here */
+#layer5{
+    margin: 70px;
+    background-color: #bebded;
+    width: 90vw;
+    height: 60vh;;
+}
+#layer5 .contact .form-up{
+    background-color: rgb(203 196 196);
+    height: 14vh;
+   
+}
+#layer5 .contact .form-up h2{
+    font-size: 40px;
+    margin: 2px 765px;
+}
+#layer5 .contact .form-up h3{
+    font-size: 20px;
+    margin: 6px 677px;
+}
+#layer5 .form .name-input{
+margin: 15px 15px;
+}
+#layer5 .form .email-input{
+    margin: 10px 15px;
+}
+#layer5 .form .contact-number-input{
+    margin: 10px 15px;
+}
+#layer5 .form .address{
+    margin:15px 15px;
+}
+#layer5 .form .Profession{
+    margin: 15px 15px;
+}
+#layer5 .form .message-form{
+    margin: 15px 15px;
+}
+#layer5 .form .message-form input{
+    padding: 42px 140px;;
+    margin: 5px 5px;
+}
+#layer5  .form{
+    background-color: #709ea3;
+    width: 33vw;
+    height: fit-content;
+    font-size: 20px;
+    margin: 32px 499px;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
